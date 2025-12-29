@@ -1,6 +1,5 @@
 package software.ulpgc.kata3.model;
 
-import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Iterator;
 
